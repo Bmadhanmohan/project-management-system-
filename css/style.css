@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Asap+Condensed');
+body{
+	position: relative;
+	width: 1200px;
+	margin-left: 10%;
+	
+	
+
+}
+form input{
+	font-size: 12px;
+}
+dot{
+	position:absolute;
+
+	background: rgb(244, 247, 248);
+	border-radius: 50%;
+	box-shadow: 0 0 22px rgb(255, 242, 242),0 0 66px rgb(68, 97, 60);
+	animation: hue infinite 6s ;
+	z-index: -1;
+}
+
+
+.start-container .title-text h1{
+	color:rgb(255, 255, 255);
+	font-family: 'Asap Condensed', sans-serif;
+	font-size: 55px;
+	animation: text infinite 10s ;
+	
+}
+@keyframes text {
+	0%{color:rgb(174, 154, 207);text-shadow:1px 2px 3px black; }
+	40%{color:rgb(243, 225, 225);text-shadow:1px 2px 13px rgb(0, 1, 2); }
+	80%{color:rgb(239, 241, 95);text-shadow:1px 2px 3px rgb(5, 24, 66); }
+	100%{color:rgb(8, 250, 20);text-shadow:1px 2px 3px rgb(245, 11, 11); }
+	
+}
+@keyframes marquee {
+	0%{color:rgb(78, 12, 184);text-shadow:1px 2px 3px black; 
+	   filter: hue-rotate(0deg);
+	}
+	20%{color:rgb(156, 127, 202);text-shadow:1px 2px 3px rgb(74, 4, 77);  }
+	40%{color:rgb(243, 225, 225);text-shadow:1px 2px 3px rgb(0, 1, 2); }
+	60%{color:rgb(48, 231, 12);text-shadow:1px 2px 3px rgb(13, 74, 204); filter: hue-rotate(180deg);}
+	80%{color:rgb(229, 233, 5);text-shadow:1px 2px 3px rgb(5, 24, 66); }
+	100%{color:rgb(212, 100, 9);text-shadow:1px 2px 3px rgb(245, 11, 11);filter: hue-rotate(360deg); }
+	
+}
+@keyframes hue {
+	0%{
+		filter: hue-rotate(0deg);
+	 }
+	 100%{
+		filter: hue-rotate(360deg);
+	 }
+}
+marquee{
+	font-size: 34px;
+	animation: marquee infinite 2s ;
+}
+.start-container button{
+	color:white;
+	font-size:16px;
+	border-radius:3px 8px;
+	text-shadow:1px 2px 3px black; 
+	background: linear-gradient(45deg,rgb(124, 48, 196),rgb(243, 60, 219));
+	transition: all 1s;
+}
+.start-container button:hover{
+	font-size:18px;
+	text-shadow:1px 2px 3px rgb(252, 8, 8); 
+	border-radius:10px 10px;
+	background: linear-gradient(45deg,rgb(43, 22, 233),rgb(17, 209, 177));
+
+}
+
+
+.start-container{
+	margin-top:80px ;
+}
+.start-container .title-text h4{
+	color: #fa570b;
+	font-size: 26px;
+	font-weight: bolder;
+}
+nav{
+	
+	font-family: 'Asap Condensed', sans-serif;
+}
+.text-bold{
+	font-weight: bold;
+}
+h5{
+	font-weight: bold;
+}
+#project_title{
+	font-weight: bold;
+	font-family: 'Asap Condensed', sans-serif;
+	font-style: 18px;
+	color: rgb(237, 237, 253);
+	text-align: center;
+}
+
+
+
+
+.load_bg{
+    width:100%;height:100%;background:black;position:relative;
+}
