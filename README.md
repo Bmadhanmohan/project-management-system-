@@ -1,4 +1,4 @@
-## Computer Science Department
+# _Computer Science Department_
 
 # **Students project allocation and management system**
 
