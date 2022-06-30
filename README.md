@@ -29,7 +29,7 @@ Project management system is a system for managing, controlling, monitoring the 
 ### screenshots
 
 1. Login page
-![hello](/Screenshots/image10.jpeg)
+![hello](/Screenshots/image8.jpeg)
 2. Admin Dashboard
 ![hello](/Screenshots/image12.jpeg)
 ![hello](/Screenshots/image11.jpeg)
@@ -44,7 +44,7 @@ Project management system is a system for managing, controlling, monitoring the 
 7. Guide login
 ![hello](/Screenshots/image17.jpeg)
 8. Login page
-![hello](/Screenshots/image12.jpeg)
+![hello](/Screenshots/image21.jpeg)
 9. Login page
 ![hello](/Screenshots/image10.jpeg)
 10. Login page
