@@ -51,13 +51,15 @@ Project management system is a system for managing, controlling, monitoring the 
 ![hello](/Screenshots/image22.jpeg)
 11. Attending meeting
 ![hello](/Screenshots/image23.jpeg)
-12. Student login
+-Student Login page
+![hello](/Screenshots/image12.jpeg)
+12. Student Dashboard
 ![hello](/Screenshots/image24.jpeg)
 13. Submitting Documents
 ![hello](/Screenshots/image25.jpeg)
 14. View guides
 ![hello](/Screenshots/image26.jpeg)
-15. Login page
+15. Student attending meeting
 ![hello](/Screenshots/image27.jpeg)
 16. Login page
 ![hello](/Screenshots/image12.jpeg)
