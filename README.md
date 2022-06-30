@@ -30,38 +30,37 @@ Project management system is a system for managing, controlling, monitoring the 
 
 1. Login page
 ![hello](/Screenshots/image8.jpeg)
-16. Loading page
+2. Loading page
 ![hello](/Screenshots/image10.jpeg)
-2. Admin Dashboard
+3. Admin Dashboard
 ![hello](/Screenshots/image12.jpeg)
 ![hello](/Screenshots/image11.jpeg)
-3. Creating project
+4. Creating project
 ![hello](/Screenshots/image13.jpeg)
-4. Assigning project to students
+5. Assigning project to students
 ![hello](/Screenshots/image14.jpeg)
-5. Assigning Guides
+6. Assigning Guides
 ![hello](/Screenshots/image15.jpeg)
-6. View project suggestions
+7. View project suggestions
 ![hello](/Screenshots/image16.jpeg)
-7. Guide login
+8. Guide login
 ![hello](/Screenshots/image17.jpeg)
-8. Guide adding members
+9. Guide adding members
 ![hello](/Screenshots/image20.jpeg)
-9. Guide viewing students
+10. Guide viewing students
 ![hello](/Screenshots/image21.jpeg)
-10. Creating meeting
+11. Creating meeting
 ![hello](/Screenshots/image22.jpeg)
-11. Attending meeting
+12. Attending meeting
 ![hello](/Screenshots/image23.jpeg)
--Student Login page
-![hello](/Screenshots/image12.jpeg)
-12. Student Dashboard
+13. Student Login page
+![hello](/Screenshots/image9.jpeg)
+14. Student Dashboard
 ![hello](/Screenshots/image24.jpeg)
-13. Submitting Documents
+15. Submitting Documents
 ![hello](/Screenshots/image25.jpeg)
-14. View guides
+16. View guides
 ![hello](/Screenshots/image26.jpeg)
-15. Student attending meeting
+17. Student attending meeting
 ![hello](/Screenshots/image27.jpeg)
-16. Login page
-![hello](/Screenshots/image12.jpeg)
+
