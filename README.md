@@ -13,14 +13,14 @@ Project management system is a system for managing, controlling, monitoring the 
 
 #### Technologies Used:
 
-#### Front-End:
+#### 1 Front-End:
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 - jQuery
 
-#### Back-End: PHP
+#### 2 Back-End: PHP
 
 #### Database: MySQL
 
