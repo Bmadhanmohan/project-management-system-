@@ -27,7 +27,8 @@ Project management system is a system for managing, controlling, monitoring the 
 #### **server:Xamp**
 
 ###screenshots
-1.Login page
+
+1. Login page
 ![hello](/Screenshots/image10.jpeg)
-1.Login page
+2. Login page
 ![hello](/Screenshots/image12.jpeg)
