@@ -1,6 +1,6 @@
 ## Computer Science Department
 
-# ** Students project allocation and management system **
+# **Students project allocation and management system**
 
 ### ABOUT THE PROJECT
   The Managing and controlling the final year projects of students using manual or traditional process is a very tedious job. The main aim of this project is to create an automated system for managing all the activities of projects.
