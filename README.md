@@ -43,20 +43,20 @@ Project management system is a system for managing, controlling, monitoring the 
 ![hello](/Screenshots/image16.jpeg)
 7. Guide login
 ![hello](/Screenshots/image17.jpeg)
-8. Login page
-![hello](/Screenshots/image21.jpeg)
-9. Login page
-![hello](/Screenshots/image10.jpeg)
-10. Login page
-![hello](/Screenshots/image12.jpeg)
-11. Login page
-![hello](/Screenshots/image10.jpeg)
-12. Login page
-![hello](/Screenshots/image12.jpeg)
-13. Login page
-![hello](/Screenshots/image10.jpeg)
-14. Login page
-![hello](/Screenshots/image12.jpeg)
+8. Guide adding members
+![hello](/Screenshots/image20.jpeg)
+9. Guide viewing students
+![hello](/Screenshots/image22.jpeg)
+10. Creating meeting
+![hello](/Screenshots/image23.jpeg)
+11. Attending meeting
+![hello](/Screenshots/image24.jpeg)
+12. Student login
+![hello](/Screenshots/image25.jpeg)
+13. Submitting Documents
+![hello](/Screenshots/image26.jpeg)
+14. View guides
+![hello](/Screenshots/image27.jpeg)
 15. Login page
 ![hello](/Screenshots/image10.jpeg)
 16. Login page
