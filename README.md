@@ -28,4 +28,4 @@ Project management system is a system for managing, controlling, monitoring the 
 
 ###**screenshots**
 
-![hello](image10.jpeg)
+![hello](/screenshots/image10.jpeg)
