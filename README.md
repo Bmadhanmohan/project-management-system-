@@ -30,18 +30,19 @@ Project management system is a system for managing, controlling, monitoring the 
 
 1. Login page
 ![hello](/Screenshots/image10.jpeg)
-2. Login page
+2. Admin Dashboard
 ![hello](/Screenshots/image12.jpeg)
-3. Login page
-![hello](/Screenshots/image10.jpeg)
-4. Login page
-![hello](/Screenshots/image12.jpeg)
-5. Login page
-![hello](/Screenshots/image10.jpeg)
-6. Login page
-![hello](/Screenshots/image12.jpeg)
-7. Login page
-![hello](/Screenshots/image10.jpeg)
+![hello](/Screenshots/image11.jpeg)
+3. Creating project
+![hello](/Screenshots/image13.jpeg)
+4. Assigning project to students
+![hello](/Screenshots/image14.jpeg)
+5. Assigning Guides
+![hello](/Screenshots/image15.jpeg)
+6. View project suggestions
+![hello](/Screenshots/image16.jpeg)
+7. Guide login
+![hello](/Screenshots/image17.jpeg)
 8. Login page
 ![hello](/Screenshots/image12.jpeg)
 9. Login page
